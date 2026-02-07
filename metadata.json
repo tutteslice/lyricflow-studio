@@ -1,0 +1,5 @@
+{
+  "name": "LyricFlow Studio",
+  "description": "A professional-grade lyric writing and syncing workspace for cover artists. Features waveform visualization, region looping, tap-to-sync, and AI lyric assistance.",
+  "requestFramePermissions": []
+}
